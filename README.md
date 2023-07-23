@@ -12,8 +12,6 @@ A clone app of Cred using Flutter in GitHub is a mobile application that replica
 - Custom Path creation
 - Animations
 
-### Video sample -
-https://www.linkedin.com/posts/sharmaprateek196_cred-cred-flutterdeveloper-activity-6878915968916172800-FwNW
 
 ### Screenshots -
 
